@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Build NODE-ECON
-author: Chester
+author: Kyle
 published: false
 ---
 
@@ -30,7 +30,6 @@ The goal is to create modules that work together. This requires some thinking ab
 -Summing and weighting of models
 
 Yes, I know all this stuff already exists. But I don't think it exists in this form, in a way usable to the people who actually consume and make decisions based on the data. The people who don't have an extra ten hours a day to learn the finer points but who are perfectly capable of generating sophisticated and useful models with the right set of tools.
-
 
 ## Use it. Modify it. Contribute to it.
 NODE-ECON is intended for all to use, all here in our [GitHub repository](https://github.com/node-econ). 
