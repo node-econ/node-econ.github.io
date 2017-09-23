@@ -2,7 +2,7 @@
 layout: post
 title: Help Build NODE-ECON
 author: Kyle
-published: false
+published: true
 ---
 
 ## Origins
