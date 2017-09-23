@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Tale
+paginate:       5
+baseurl:        ""
+url:            "https://node-econ.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Kyle Birchard
+  url:          http://integrativeecon.com
+  email:        kyle@integrativeecon.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/node-econ
+
+# Gems
+gems:
+  - jekyll-paginate
