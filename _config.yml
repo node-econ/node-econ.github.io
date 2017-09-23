@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          NODE-ECON: A Flow-based programming environment for economic analysis. Currently in development. Check back early 2018.
+title:          NODE-ECON
 paginate:       5
 baseurl:        ""
 url:            "https://node-econ.github.io"
