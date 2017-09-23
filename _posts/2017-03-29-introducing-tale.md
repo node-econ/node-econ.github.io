@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Build NODE-ECON
-author: Chester
+author: Kyle
 published: true
 ---
 
@@ -37,4 +37,4 @@ NODE-ECON is intended for all to use, all here in our [GitHub repository](https:
 
 What we could really use is your help in building this idea into a living, breathing system, for use by practitioners in all of the possible econ variants, from applied to theoretical, from micro to macro, from environmental and natural resources to information technology.
 
-Contact me at kyle@integrativeecon.com if you'd like to get involved!
+Contact me at [kyle@integrativeecon.com](kyle@integrativeecon.com) if you'd like to get involved!
