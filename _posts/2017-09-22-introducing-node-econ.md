@@ -29,7 +29,7 @@ The goal is to create modules that just work together without a whole lot of tin
 - More complex activities, like agent-based models, market simulations, bio-geo-economic models
 - Summing and weighting of different models into one output
 
-*Yes, I know all this stuff already exists*. But I don't think it exists in this interface, in a way usable to the people who consume and make decisions based on the data. The people who don't have an extra ten hours a day to learn the finer points but who are perfectly capable of generating sophisticated and useful models with the right set of tools.
+*Yes, I know all this stuff already exists*. But I envision more of an intermediate interface, somewhere between the notebook model and expensive tools like Stella and Simulink, based on open development principles.
 
 ## Use it. Modify it. Contribute to it.
 NODE-ECON is intended for all to use, all here in our [GitHub repository](https://github.com/node-econ). 
