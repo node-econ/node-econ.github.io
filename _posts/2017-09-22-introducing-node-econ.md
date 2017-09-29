@@ -20,6 +20,8 @@ Whatever the case, without any realistic way of making any change happen, this i
 ## Then I saw NODE-RED: 
 If you've read this far, I presume you know about NODE-RED. If you don't, you can find what you need [here](https://flows.nodered.org/).
 
+![Flow model example](node-econ.github.io/_images/flow-example.png)
+
 That's it. That's the interface I was looking for. Some of the most common NODE-RED use cases are for IoT applications, but I think there's a ton of potential for adapting the concepts and toolsets for use in economic analysis. 
 
 The goal is to create modules that just work together without a whole lot of tinkering. This requires some thinking about how data go into and out of individual modules, and quality control, and a whole lot of other considerations. Think about it for a moment. Would you use a tool that you can build that handles things like:
